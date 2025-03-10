@@ -150,6 +150,7 @@
     <Content Include="Content\Site.css" />
     <Content Include="HTML\Images\dog.jpg" />
     <Content Include="HTML\Images\spaceman.jpg" />
+    <Content Include="HTML\Images\spaceman2.jpg" />
     <Content Include="HTML\Person01.html" />
     <Content Include="HTML\Person02.html" />
     <Content Include="HTML\Person03.html" />

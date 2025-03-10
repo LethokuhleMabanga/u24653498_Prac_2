@@ -61,12 +61,15 @@ body>div{
     margin-top:40px;
 }
 
-.row1 img{
-    float:left;
+.row1 img {
+    float: left;
+    
 }
-.row img, row p{
-    height:200px;
+.row img, .row p {
+    
+    height: 300px;
 }
+
 
 .row img:hover {
     -webkit-transform: scaleX(-1);
@@ -76,3 +79,4 @@ body>div{
 .side-right{
     display:flex;
 }
+
